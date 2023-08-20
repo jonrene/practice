@@ -1,1 +1,1 @@
-console.log("File2 : Version 1 edited");
+console.log("File2 : Version 2");
