@@ -1,1 +1,1 @@
-console.log("file1 : Version 1 edited")
+console.log("file1 : Version 1 new conflict 2")
